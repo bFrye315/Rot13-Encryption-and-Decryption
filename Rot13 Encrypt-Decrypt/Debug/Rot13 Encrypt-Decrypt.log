@@ -1,0 +1,4 @@
+﻿  Rot13_Encrypt-Decrypt.cpp
+C:\Users\bhf31\Desktop\Rot13 Encrypt-Decrypt\Rot13_Encrypt-Decrypt.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\bhf31\Desktop\Rot13 Encrypt-Decrypt\Rot13_Encrypt-Decrypt.cpp(100,23): warning C4018: '<': signed/unsigned mismatch
+  Rot13 Encrypt-Decrypt.vcxproj -> C:\Users\bhf31\Desktop\Rot13 Encrypt-Decrypt\Debug\Rot13 Encrypt-Decrypt.exe
